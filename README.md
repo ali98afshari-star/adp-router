@@ -57,4 +57,4 @@ Implements ADP routing per spec:
 
 ## License
 
-MIT | ali98afshari-star
+© 2026 Ali Afshari — All rights reserved.
